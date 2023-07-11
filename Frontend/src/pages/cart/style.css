@@ -1,0 +1,6 @@
+.cart_wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  /* color: #1f9ca4; */
+}
